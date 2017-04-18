@@ -1,0 +1,9 @@
+/* -- MEDIA-- */
+img, audio, video{
+  width: 100%;
+  max-width: 100%;
+}
+/* -- LAYOUT --*/
+.row{
+  margin-bottom: 20px;
+}
